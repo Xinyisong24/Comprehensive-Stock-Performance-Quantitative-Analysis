@@ -1,0 +1,7 @@
+wrds
+pandas
+numpy
+matplotlib
+seaborn
+statsmodels
+jupyter
