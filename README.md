@@ -1,4 +1,4 @@
-# ACC102 Track 2:Comprehensive Stock Performance Quantitative Analysis
+# ACC102 Track 2: Comprehensive Stock Performance Quantitative Analysis
 ## GitHub Data Analysis Project
 
 ---
@@ -25,16 +25,16 @@ The framework is fully customizable: users can input any valid U.S. stock ticker
 ## 3. Analytical Methods & Workflow
 This project implements a complete quantitative stock analysis workflow in Python:
 
-1. Data Extraction
+1. **Data Extraction**  
 Retrieve daily stock prices and returns from the WRDS database using SQL queries.
 
-2. Data Cleaning & Preprocessing
+2. **Data Cleaning & Preprocessing**  
 Filter data by user-defined time period, convert dates to datetime format, remove missing values, and sort observations by date to ensure data quality and reliability.
 
-3. Unified Standardization
+3. **Unified Standardization**  
 All stock price series are rebased to a starting value of 1 to ensure fair and intuitive comparison regardless of original price levels.
 
-4. Visualization & Risk-Return Analysis
+4. **Visualization & Risk-Return Analysis**  
 Generate standardized charts including:
 - Rebased price trend
 - Cumulative return
@@ -44,7 +44,7 @@ Generate standardized charts including:
 - Return correlation heatmap
 - Return distribution
 
-5. Financial Indicator Calculation
+5. **Financial Indicator Calculation**  
 Compute key investment metrics:
 - Annualized return
 - Annualized volatility
@@ -52,7 +52,7 @@ Compute key investment metrics:
 - Maximum drawdown
 - Alpha and Beta (CAPM model)
 
-6. Summary & Investment Scoring
+6. **Summary & Investment Scoring**  
 Provide a structured summary of stock performance and a simple investment scorecard for decision support.
 
 ---
