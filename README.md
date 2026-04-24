@@ -70,7 +70,7 @@ Provide a structured summary of stock performance and a simple investment scorec
 1. Install all required Python libraries by running the following command:
 pip install -r requirements.txt
 
-2. Open the main Jupyter notebook file named stock_analysis.ipynb.
+2. Open the main Jupyter notebook file named Comprehensive Stock Performance Quantitative Analysis.ipynb.
 
 3. Locate the parameter-setting cell at the beginning of the notebook.
 Modify the following items as needed:
