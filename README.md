@@ -1,4 +1,4 @@
-# ACC102 Track 2: Universal Multi-Stock Quantitative Analysis Project
+# ACC102 Track 2:Comprehensive Stock Performance Quantitative Analysis
 ## GitHub Data Analysis Project
 
 ---
@@ -68,6 +68,7 @@ Provide a structured summary of stock performance and a simple investment scorec
 
 ## 5. How to Run the Project
 1. Install all required Python libraries by running the following command:
+```bash
 pip install -r requirements.txt
 
 2. Open the main Jupyter notebook file named Comprehensive Stock Performance Quantitative Analysis.ipynb.
