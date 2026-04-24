@@ -87,8 +87,7 @@ Modify the following items as needed:
 
 ## 6. Product & Demo Link
 - GitHub Repository: https://github.com/Xinyisong24/Comprehensive-Stock-Performance-Quantitative-Analysis
-- Demo Video: [Your Video Link Here]
-
+- Demo Video: https://video.xjtlu.edu.cn/mediasite/LTI/Assignment/Launch?id=5518ddc9499d4ccf84b15ce7472da44c
 ---
 
 ## 7. Limitations
